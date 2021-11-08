@@ -9,7 +9,7 @@
 ### 🏁 Instalação
 
 Antes de começar, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-Clone este repositório usando git clone: https://github.com/Leticiafrnc/Atividade-letra-inicial.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
+Clone este repositório usando git clone: https://github.com/Leticiafrnc/jogo-letra-inicial.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
 
 ### 🛠 Tecnologias
 
